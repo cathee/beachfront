@@ -1,2 +1,4 @@
 4/26 Adding a new file called sty with some sample text for the sty file.
 Also added a beach pic to index.
+trying pic again, although it looks upside down. added sunscreen line.
+chgd pic location and added flip flops
